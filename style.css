@@ -1,0 +1,16 @@
+ body{
+	background-color: #eee;
+}
+@frm{
+	border:solid gray 1px;
+	width: 20x;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: white;
+}
+#btn{
+	color: #ffff;
+	background-color: #227ab7;
+	podding: 5px;
+	margin-left: 60x;
+}
